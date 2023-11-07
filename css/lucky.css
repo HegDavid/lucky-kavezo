@@ -1,3 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 body {
   background-color: aqua;
+  font-family: 'India Flower', cursive;
+}
+nav{
+  background-color: blue;
+  padding: 15px;
+  position: fixed;
+}
+nav a{
+  color:blueviolet;
+  margin: 15px;
+}
+nav a:hover{
+  color: white;
+  text-decoration: none;
+}
+.banner{
+  background-image: ;
+  background-position: center center;
+  background-size: cover;
+  height: 400px;
 }
