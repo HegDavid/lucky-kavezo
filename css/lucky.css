@@ -22,3 +22,18 @@ nav a:hover{
   background-size: cover;
   height: 400px;
 }
+h1{
+  font-family: ;
+  color: ;
+  text-align: center;
+}
+.kave{
+  color: ;
+  background-color: ;
+  border: 1px solid;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+.kave:hover{
+  box-shadow: 0px 0px 5px;
+}
