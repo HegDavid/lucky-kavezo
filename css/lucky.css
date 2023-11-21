@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+=======
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+>>>>>>> f5dc6bf27583d41e37e08045caa6fae43773bb7e
 body {
   background-color: aqua;
   font-family: 'India Flower', cursive;
@@ -36,4 +40,39 @@ h1{
 }
 .kave:hover{
   box-shadow: 0px 0px 5px;
+}
+nav {
+  background-color: blue;
+  padding: 15px;
+  position: fixed;
+}
+nav a {
+  color: blueviolet;
+  margin: 15px;
+}
+nav a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.banner {
+  background-image: url(image.png);
+  background-position: center center;
+  background-size: cover;
+  height: 400px;
+}
+h1 {
+  font-family: "Fredericka the Great", cusive;
+  color: #1f5b25;
+  text-align: center;
+}
+.kave {
+  color: #1f5b25;
+  background-color: #fff;
+  border: 1px solid;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+.kave:hover {
+  box-shadow: 0px 0px 5p #1f5b25;
 }
