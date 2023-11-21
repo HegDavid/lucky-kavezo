@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 body {
   background-color:antiquewhite ;
@@ -37,6 +38,149 @@ h1{
 }
 .kave:hover{
   box-shadow: 1px 1px 5p #1f5b25;
+}
+
+#napiajanlat{
+  width:40px ;
+  position: absolute;
+  top: 10px;
+  right: 20px;
+}
+
+.footer{
+  background-color: #1f5b25;
+  color: aliceblue;
+}
+
+footer li {
+  list-style-type: none;
+}
+
+
+footer li>img{
+  width: 15px;
+  margin: 10px;
+=======
+<<<<<<< HEAD
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+<<<<<<< HEAD
+=======
+body {
+  background-color:antiquewhite ;
+  font-family: 'Indie Flower', cursive;
+>>>>>>> 2a937fea1e1226c1c61f226b19d3df613a61da1d
+=======
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+>>>>>>> f5dc6bf27583d41e37e08045caa6fae43773bb7e
+body {
+  background-color: aqua;
+  font-family: 'India Flower', cursive;
+>>>>>>> 931594f071a0132e8f2d88565fb843f463e239aa
+}
+nav{
+  background-color: blue;
+  padding: 15px;
+  position: fixed;
+}
+nav a{
+  color:blueviolet;
+  margin: 15px;
+}
+nav a:hover{
+  color: white;
+  text-decoration: none;
+}
+.banner{
+  background-image: ;
+  background-position: center center;
+  background-size: cover;
+  height: 400px;
+}
+h1{
+  font-family: ;
+  color: ;
+  text-align: center;
+}
+.kave{
+  color: ;
+  background-color: ;
+  border: 1px solid;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+.kave:hover{
+  box-shadow: 0px 0px 5px;
+}
+nav {
+  background-color: blue;
+  padding: 15px;
+  position: fixed;
+}
+nav a {
+  color: blueviolet;
+  margin: 15px;
+}
+nav a:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.banner {
+  background-image: url(image.png);
+  background-position: center center;
+  background-size: cover;
+  height: 400px;
+}
+h1 {
+  font-family: "Fredericka the Great", cusive;
+  color: #1f5b25;
+  text-align: center;
+}
+.kave {
+  color: #1f5b25;
+  background-color: #fff;
+  border: 1px solid;
+  border-radius: 4px;
+  margin-bottom: 1rem;
+}
+.kave:hover {
+  box-shadow: 0px 0px 5p #1f5b25;
+>>>>>>> f5dc6bf27583d41e37e08045caa6fae43773bb7e
+}
+nav{
+  background-color: #1f5b25;
+  padding: 15px;
+  position:fixed;
+}
+nav a{
+  color: white;
+  margin: 15px;
+}
+nav a:hover{
+  color: white;
+  text-decoration: none;
+}
+.banner{
+  background-image: url(image.png);
+  background-position: center center;
+  background-size: cover;
+  height: 50px;
+}
+h1{
+  font-family: 'Fredericka the Great',cusive;
+  color:brown;
+  text-align: center;
+}
+.kave{
+  color:#1f5b25;
+  background-color: white;
+  border: 1px solid;
+  border-radius:30px ;
+  margin-bottom: 30px;
+  position: relative;
+}
+.kave:hover{
+  box-shadow: 10px 10px 5p #1f5b25;
 }
 
 #napiajanlat{
