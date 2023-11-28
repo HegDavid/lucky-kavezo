@@ -6,6 +6,9 @@ body {
 nav a:first-child img {
   width: 16px;
 }
+head{
+  text-align: center;
+}
 
 #fooldal {
   background-image: url("../fooldal/fooldalkep.jpg");
@@ -32,7 +35,7 @@ nav a:hover {
   text-decoration: none;
 }
 .banner {
-  background-image: url(image.png);
+
   background-position: center center;
   background-size: cover;
   height: 50px;
@@ -64,6 +67,7 @@ h1 {
 .footer {
   background-color: #1f5b25;
   color: aliceblue;
+  position: relative;
 }
 
 footer li {
